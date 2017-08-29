@@ -1,0 +1,6 @@
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\Willy\Desktop\Cegep\Session 1\Informatique\Programmation I\TPs\TP1\TP1\obj\Debug\question1.csprojResolveAssemblyReference.cache
